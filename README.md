@@ -4,7 +4,7 @@
  1. Создать внешний репозиторий c названием TXT.	      - [TXT](https://github.com/EvgeneyKEO/TXT.git)
  
  2. Клонировать репозиторий TXT на локальный компьютер	      
-``
+```
 git clone https://github.com/EvgeneyKEO/TXT.git
 ```
  
